@@ -1,0 +1,4 @@
+User 303 allocated Book ID 101 (Hound of the baskerville)
+User 304 request for Book ID 101 could not be fulfilled (not available)
+User 293 allocated Book ID 102 (The Great Gatsby)
+User 304 allocated Book ID 101 (Hound of the baskerville)
