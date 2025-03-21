@@ -1,4 +1,5 @@
 📚 LibraSearch - Intelligent Library Management System
+
 📌 Overview
 
 LibraSearch is an optimized Library Management System that streamlines book allocation, user requests, and deallocation processes. The system implements key DAA and DSA algorithms such as sorting, searching, greedy allocation, and dynamic programming to enhance efficiency. It also uses MySQL for structured book and user record management.
